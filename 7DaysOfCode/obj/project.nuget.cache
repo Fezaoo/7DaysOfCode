@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vTbY5sf7vtJL0i/247ILuRYvrG4VgM0suq/nRMVOd7cjZLoAAvlBmiWu1Zlz+lVhT+BeF31s7Qh4OAFmL/TBug==",
+  "dgSpecHash": "ZyDg4hESqhSKt75bbp+E5xwNfU+HDGiGrAlxX709UDU3opq+7CGlUw7jfXrYhMliNu83fO+3LBaUchmaAoNZng==",
   "success": true,
   "projectFilePath": "C:\\Users\\fegui\\OneDrive\\Área de Trabalho\\Curso em Vídeo\\C#\\Projetos\\7DaysOfCode\\7DaysOfCode\\7DaysOfCode.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fegui\\.nuget\\packages\\restsharp\\111.3.0\\restsharp.111.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
