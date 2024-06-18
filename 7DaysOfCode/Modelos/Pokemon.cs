@@ -7,7 +7,7 @@ internal class Pokemon
     [JsonPropertyName("name")]
     public string? Name { get; set; }
     [JsonPropertyName("url")]
-    public string? url { get; set; }
+    public string? Url { get; set; }
     [JsonPropertyName("id")]
     public int? Id { get; set; }
     [JsonPropertyName("height")]
