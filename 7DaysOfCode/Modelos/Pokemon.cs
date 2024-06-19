@@ -8,10 +8,9 @@ internal class Pokemon
     public string? Name { get; set; }
     [JsonPropertyName("url")]
     public string? Url { get; set; }
-    [JsonPropertyName("id")]
     public int? Id { get; set; }
-    [JsonPropertyName("height")]
     public int? Height { get; set; }
-    [JsonPropertyName("weight")]
     public int? Weight { get; set; }
+
+    public List<PokemonAbilitie>? Abilities { get; set; }
 }

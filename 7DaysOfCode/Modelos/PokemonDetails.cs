@@ -12,4 +12,6 @@ internal class PokemonDetails
 
     [JsonPropertyName("weight")]
     public int? Weight { get; set; }
+    [JsonPropertyName("abilities")]
+    public List<PokemonAbilitie> pokemonAbilities { get; set; }
 }
