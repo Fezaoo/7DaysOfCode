@@ -102,10 +102,38 @@ void MenuPrincipal()
                 }
                 break;
             case 2:
+                bool opcaoMenuPokemonAdotado = true;
+                while (opcaoMenuPokemonAdotado)
+                {
                 Console.Clear();
+                Console.WriteLine("Selecione um pokemon: ");
                 Exibir.ExibirPokemonsAdotados(pokemonsAdotados);
+                Console.Write("Opção: ");
+                int opcaoPokemonAdotado = Convert.ToInt32(Console.ReadLine());
+                    opcaoPokemonAdotado--;
+                if (pokemonsAdotados.ElementAtOrDefault(opcaoPokemonAdotado) != null)
+                    {
+                        Console.WriteLine();
+                        Console.WriteLine("Selecione uma opção: ");
+                        Console.WriteLine("[1] Alimentar pokemon");
+                        Console.WriteLine("[2] Por pokemon para dormir");
+                        Console.WriteLine("[3] Brincar com pokemon ");
+                        Console.Write("Sua opção: ");
+                        int opcaoInteracao = Convert.ToInt32(Console.ReadLine());
+                        if (opcaoInteracao == 1) { pokemonsAdotados[opcaoPokemonAdotado].AlimentarPokemon(); }
+                        if (opcaoInteracao == 2) { pokemonsAdotados[opcaoPokemonAdotado].DormirPokemon(); }
+                        if (opcaoInteracao == 3) { pokemonsAdotados[opcaoPokemonAdotado].BrincarPokemon(); }
+                    }
+                    string respostaInteracao = "";
+                    while (respostaInteracao != "y" && respostaInteracao != "n")
+                    {
+                        Console.Write("Sair? [y/n]: ");
+                        respostaInteracao = Console.ReadLine()!;
+                    }
+                    if (respostaInteracao == "y") break;
+                }
+
                 Thread.Sleep(400);
-                Console.ReadKey();
                 break;
             case 3:
                 break;

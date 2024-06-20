@@ -13,4 +13,20 @@ internal class Pokemon
     public int? Weight { get; set; }
 
     public List<PokemonAbilitie>? Abilities { get; set; }
+
+    public void AlimentarPokemon()
+    {
+        Console.WriteLine($"Você alimentou o {Name}! ");
+    }
+    
+    public void DormirPokemon()
+    {
+        Console.WriteLine($"Você colocou o {Name} para dormir! ");
+
+    }
+
+    public void BrincarPokemon()
+    {
+        Console.WriteLine($"Você brincou com o {Name}! ");
+    }
 }

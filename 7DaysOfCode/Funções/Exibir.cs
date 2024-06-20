@@ -30,9 +30,9 @@ namespace _7DaysOfCode.Modelos
         {
             Console.WriteLine($"Quantidade: {pokemonsAdotados.Count}");
             Console.WriteLine("Seus pokemons adotados: ");
-            foreach (var pokemon in pokemonsAdotados)
+            for (int i = 0; i < pokemonsAdotados.Count; i++)
             {
-                Console.WriteLine(pokemon.Name);
+                Console.WriteLine($"[{i + 1}] {pokemonsAdotados[i].Name}");
             }
             Console.Write("Aperte qualquer tecla para voltar ");
         }
