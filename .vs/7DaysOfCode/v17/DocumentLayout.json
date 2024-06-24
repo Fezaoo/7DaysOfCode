@@ -11,20 +11,24 @@
       "RelativeMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|solutionrelative:7daysofcode\\modelos\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\7daysofcode\\7daysofcode\\fun\u00E7\u00F5es\\exibir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|solutionrelative:7daysofcode\\fun\u00E7\u00F5es\\exibir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\7daysofcode\\7daysofcode\\services\\pokemonapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|solutionrelative:7daysofcode\\services\\pokemonapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\7daysofcode\\7daysofcode\\modelos\\pokemondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|solutionrelative:7daysofcode\\modelos\\pokemondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\7daysofcode\\7daysofcode\\modelos\\pokemonapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|solutionrelative:7daysofcode\\modelos\\pokemonapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\7daysofcode\\7daysofcode\\modelos\\abilitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|solutionrelative:7daysofcode\\modelos\\abilitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\7daysofcode\\7daysofcode\\modelos\\pokemonapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|solutionrelative:7daysofcode\\modelos\\pokemonapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\7daysofcode\\7daysofcode\\fun\u00E7\u00F5es\\exibir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|solutionrelative:7daysofcode\\fun\u00E7\u00F5es\\exibir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\7daysofcode\\7daysofcode\\modelos\\pokemondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|solutionrelative:7daysofcode\\modelos\\pokemondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A7FD2B2-8E3F-41D6-9CDE-431EE42A7E89}|7DaysOfCode\\7DaysOfCode.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\7daysofcode\\7daysofcode\\modelos\\pokemonabilitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PokemonApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\7DaysOfCode\\7DaysOfCode\\Services\\PokemonApiClient.cs",
+              "RelativeDocumentMoniker": "7DaysOfCode\\Services\\PokemonApiClient.cs",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\7DaysOfCode\\7DaysOfCode\\Services\\PokemonApiClient.cs",
+              "RelativeToolTip": "7DaysOfCode\\Services\\PokemonApiClient.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:27:07.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Exibir.cs",
               "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\7DaysOfCode\\7DaysOfCode\\Fun\u00E7\u00F5es\\Exibir.cs",
               "RelativeDocumentMoniker": "7DaysOfCode\\Fun\u00E7\u00F5es\\Exibir.cs",
               "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\7DaysOfCode\\7DaysOfCode\\Fun\u00E7\u00F5es\\Exibir.cs",
               "RelativeToolTip": "7DaysOfCode\\Fun\u00E7\u00F5es\\Exibir.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA1wCcAAAABAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T13:16:58.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PokemonAbilitie.cs",
               "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\7DaysOfCode\\7DaysOfCode\\Modelos\\PokemonAbilitie.cs",
               "RelativeDocumentMoniker": "7DaysOfCode\\Modelos\\PokemonAbilitie.cs",
@@ -75,31 +92,34 @@
               "RelativeToolTip": "7DaysOfCode\\Modelos\\Abilitie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T11:58:41.053Z"
+              "WhenOpened": "2024-06-19T11:58:41.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PokemonDetails.cs",
               "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\7DaysOfCode\\7DaysOfCode\\Modelos\\PokemonDetails.cs",
               "RelativeDocumentMoniker": "7DaysOfCode\\Modelos\\PokemonDetails.cs",
               "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\7DaysOfCode\\7DaysOfCode\\Modelos\\PokemonDetails.cs",
               "RelativeToolTip": "7DaysOfCode\\Modelos\\PokemonDetails.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T13:07:54.16Z"
+              "WhenOpened": "2024-06-18T13:07:54.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "PokemonApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\7DaysOfCode\\7DaysOfCode\\Modelos\\PokemonApiResponse.cs",
               "RelativeDocumentMoniker": "7DaysOfCode\\Modelos\\PokemonApiResponse.cs",
               "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\7DaysOfCode\\7DaysOfCode\\Modelos\\PokemonApiResponse.cs",
               "RelativeToolTip": "7DaysOfCode\\Modelos\\PokemonApiResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T12:16:08.075Z"
+              "WhenOpened": "2024-06-18T12:16:08.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -109,7 +129,7 @@
               "RelativeDocumentMoniker": "7DaysOfCode\\Modelos\\Pokemon.cs",
               "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\7DaysOfCode\\7DaysOfCode\\Modelos\\Pokemon.cs",
               "RelativeToolTip": "7DaysOfCode\\Modelos\\Pokemon.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAAeAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwB4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T12:14:54.296Z",
               "EditorCaption": ""
@@ -122,7 +142,7 @@
               "RelativeDocumentMoniker": "7DaysOfCode\\Program.cs",
               "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\7DaysOfCode\\7DaysOfCode\\Program.cs",
               "RelativeToolTip": "7DaysOfCode\\Program.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAQwHEAAABUAAAA",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAFMAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T11:30:25.788Z",
               "EditorCaption": ""

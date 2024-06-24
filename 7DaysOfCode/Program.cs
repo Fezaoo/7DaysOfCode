@@ -1,15 +1,15 @@
 ﻿using _7DaysOfCode.Modelos;
+using _7DaysOfCode.Services;
 using RestSharp;
 using System.Text.Json;
 
 
 
-string url = "https://pokeapi.co/api/v2/pokemon/";
-var client = new RestClient(url);
-var request = new RestRequest();
-var response = await client.GetAsync(request);
 
-var pokemons = JsonSerializer.Deserialize<PokemonApiResponse>(response?.Content!);
+string url = "https://pokeapi.co/api/v2/pokemon/";
+
+PokemonApiClient client = new PokemonApiClient(new RestClient(url));
+var pokemons = client.GetPokemonsAsync().Result;
 
 
 Console.Write("Olá! Qual seu nome? ");
@@ -78,7 +78,7 @@ void MenuPrincipal()
                     {
                         int respostaNumerica = Convert.ToInt32(resposta) - 1;
 
-                        var detalhes = ObterDetalhesAsync(pokemons.Pokemons[respostaNumerica]).Result;
+                        var detalhes = client.ObterDetalhesAsync(pokemons.Pokemons[respostaNumerica]).Result;
                         pokemons.Pokemons[respostaNumerica].Id = detalhes.Id;
                         pokemons.Pokemons[respostaNumerica].Height = detalhes.Height;
                         pokemons.Pokemons[respostaNumerica].Weight = detalhes.Weight;
@@ -145,19 +145,6 @@ void MenuPrincipal()
 
 
 MenuPrincipal();
-
-
-async Task<PokemonDetails?> ObterDetalhesAsync(Pokemon pokemon)
-{
-    var client = new RestClient(url);
-    var request = new RestRequest();
-    client = new RestClient(pokemon?.Url!);
-    response = await client.GetAsync(request);
-    var pokemonDetails = JsonSerializer.Deserialize<PokemonDetails>(response?.Content!);
-    return pokemonDetails;
-}
-
-
 
 //foreach (var item in pokemons?.Pokemons!)
 //{
